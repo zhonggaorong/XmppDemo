@@ -6,6 +6,8 @@
 //  Copyright © 2016年 tt. All rights reserved.
 //
 
+//哎呀，我需要这样做，怎么办呢
+// 你妹妹的呀，我怎么办呢，真的是，哎哟
 #import "ViewController.h"
 
 @interface ViewController ()
